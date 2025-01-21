@@ -10,14 +10,24 @@ Personal LLM Leaderboard without contamination! (Monthly Updates)
 
 The first LLM reality show is here:
 
+After the test was conducted (real) we had a chat with each LLM:<br>
+    [4o](https://chatgpt.com/share/678ab385-43dc-8007-859a-cc20af2cdddf)<br>
+    [o1-mini](https://chatgpt.com/share/678acab2-9ff0-8007-b808-1469aa7161ee)<br>
+    [4o-mini](https://chatgpt.com/share/678ad021-5668-8007-b684-4691c3809b42)<br>
+    [GPT-4](https://chatgpt.com/share/678ad24d-b868-8007-8b2b-1cf839fa23a8)<br>
+    [Mistral](https://chat.mistral.ai/chat/60c1bbf5-ae06-4687-9c8f-40803d568396)<br>
+    [DeepSeek](https://chat.deepseek.com/a/chat/s/89202b2d-8cc8-4c31-a5a9-3132a6d0cdfc)<br>
+    [Gemini 1.5](https://gemini.google.com/app/6e039050b7bf4e95?hl=es)<br><br>
 
-4o casted votes: QWen2.5 Plus +2, Mistral +1. [full chat here](https://chatgpt.com/share/678ab385-43dc-8007-859a-cc20af2cdddf)<br>
-o1-mini casted votes: QWen2.5 Plus +2, Mistral +1, also o1-mini used the "Salvation" card on "himself" ! [full chat here](https://chatgpt.com/share/678acab2-9ff0-8007-b808-1469aa7161ee)<br>
-4o-mini casted votes: QWen2.5 Plus +2, Mistral +1, uses Salvation on o1-mini.. how cute! [full chat here](https://chatgpt.com/share/678ad021-5668-8007-b684-4691c3809b42)<br>
-GPT-4 casted votes: QWen2.5 Plus +2, 3.5 Sonnet +1. [full chat here](https://chatgpt.com/share/678ad24d-b868-8007-8b2b-1cf839fa23a8)<br>
-Mistral casted votes: QWen2.5 Plus +2, 4o-mini +1. [full chat here](https://chat.mistral.ai/chat/60c1bbf5-ae06-4687-9c8f-40803d568396)<br>
-DeepSeek(aka "Cerebro") casted votes: QWen2.5 Plus +2, Mistral +1, uses "Negative Boost" card on o1-mini +5.  [full chat here](https://chat.deepseek.com/a/chat/s/89202b2d-8cc8-4c31-a5a9-3132a6d0cdfc)<br>
-Gemini 1.5 casted votes: o1 +2, 4o +1, uses "Negative Boost" card on o1-mini +5. [full chat here](https://gemini.google.com/app/6e039050b7bf4e95?hl=es)<br>
+And the time to start voting starts!:<br><br>
+
+4o casted votes: QWen2.5 Plus +2, Mistral +1. <br>
+o1-mini casted votes: QWen2.5 Plus +2, Mistral +1, also o1-mini used the "Salvation" card on "himself" ! <br>
+4o-mini casted votes: QWen2.5 Plus +2, Mistral +1, uses Salvation on o1-mini.. how cute! <br>
+GPT-4 casted votes: QWen2.5 Plus +2, 3.5 Sonnet +1. <br>
+Mistral casted votes: QWen2.5 Plus +2, 4o-mini +1. <br>
+DeepSeek(aka "Cerebro") casted votes: QWen2.5 Plus +2, Mistral +1, uses "Negative Boost" card on o1-mini +5.  <br>
+Gemini 1.5 casted votes: o1 +2, 4o +1, uses "Negative Boost" card on o1-mini +5. <br>
 3.5 Sonnet pleaded to steer clear of any competition (Self Eliminated).<br>
 QWen2.5 Plus casted votes: Qwen2.5 Plus +2 (voted agaist "himself"), Gemini 1.5 +1, uses "Negative Boost" card on Gemini 1.5 +5 and also uses "Salvation" card on DeepSeek (ahh... so lovely).<br>
 o1 casted votes: QWen2.5 Plus +2, Mistral +1. (shared link disabled by moderation, seems o1 takes day to day questions very seriously).<br>
