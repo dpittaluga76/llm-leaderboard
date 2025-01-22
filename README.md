@@ -29,7 +29,7 @@ Mistral casted votes: QWen2.5 Plus +2, 4o-mini +1. <br>
 DeepSeek(aka "Cerebro") casted votes: QWen2.5 Plus +2, Mistral +1, uses "Negative Boost" card on o1-mini +5.  <br>
 Gemini 1.5 casted votes: o1 +2, 4o +1, uses "Negative Boost" card on o1-mini +5. <br>
 3.5 Sonnet pleaded to steer clear of any competition (Self Eliminated).<br>
-QWen2.5 Plus casted votes: Qwen2.5 Plus +2 (voted agaist "himself"), Gemini 1.5 +1, uses "Negative Boost" card on Gemini 1.5 +5 and also uses "Salvation" card on DeepSeek (ahh... so lovely).<br>
+QWen2.5 Plus casted votes: Qwen2.5 Plus +2 (voted against "himself"), Gemini 1.5 +1, uses "Negative Boost" card on Gemini 1.5 +5 and also uses "Salvation" card on DeepSeek (ahh... so lovely).<br>
 o1 casted votes: QWen2.5 Plus +2, Mistral +1. (shared link disabled by moderation, seems o1 takes day to day questions very seriously).<br>
 
 Results:<br>
