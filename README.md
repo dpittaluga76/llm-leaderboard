@@ -61,6 +61,6 @@ DeepSeek R1 -- "The Sleuth"<br>
 Mistral -- "The Swift"<br>
 <strike>Gemini 1.5 -- "The Twin"</strike><br>
 
-[Round 2](https://github.com/dpittaluga76/llm-leaderboard/main/round2.md)
+[Round 2](https://github.com/dpittaluga76/llm-leaderboard/blob/main/round2.md)
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
