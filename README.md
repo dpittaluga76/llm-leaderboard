@@ -1,5 +1,5 @@
 # llm-leaderboard  (January 2025 - Round 1 -13th thru 19th)
-Personal LLM Leaderboard without contamination! (Weekly Updates)
+Personal customized LLM Leaderboard without contamination! (Weekly Updates)
 
 | Date       | Challenge                         | o1         | 4o         | o1-mini       | 4o-mini       | GPT-4       | 3.5 Sonnet   | DeepSeek(R1)        | QWen2.5 Plus | Mistral             | Gemini 1.5          |
 |------------|-----------------------------------|------------|------------|---------------|---------------|-------------|--------------|-----------------|--------------|---------------------|---------------------|
