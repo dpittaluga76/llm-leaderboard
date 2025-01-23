@@ -1,5 +1,5 @@
 # llm-leaderboard  (January 2025 - Round 2 - 20th thru 26th) *****DRAFT***IN***WORK****
-Personal LLM Leaderboard without contamination! (Weekly Updates)
+Personal customized LLM Leaderboard without contamination! (Weekly Updates)
 
 In order to pass the test we require 60% or higher.
 
