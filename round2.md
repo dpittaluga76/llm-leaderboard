@@ -3,12 +3,12 @@ Personal LLM Leaderboard without contamination! (Weekly Updates)
 
 In order to pass the test we require 60% or higher.
 
-| Date       | Challenge                             | o1                    | 4o                   | o1-mini            | 4o-mini              | GPT-4                | DeepSeek(R1)          | Mistral              |
-|------------|---------------------------------------|-----------------------|----------------------|--------------------|----------------------|----------------------|-----------------------|----------------------|
-| 2025-01-17 | English reasoning Level 0             |   retake passed(67%)  |   retake failed(0%)  |   retake(exempt)   |   retake failed(0%)  |   retake(exempt)     |   retake failed (0%)  |  retake failed (0%)  |
-| 2025-01-17 | Multilingual reasoning Level 0 (NEW)  |   failed (33%)        |   failed (0%)        |   passed (67%)     |   failed (0%)        |   failed (0%)        |   passed (67%)        |  failed (0%)         |
-| 2025-01-17 | Multilingual reasoning Level 1        |   retake failed (0%)  |   retake failed (0%) |   retake()         |   retake failed (0%) |   retake failed (0%) |   retake failed (0%)  |  retake failed (0%)  |
-| 2025-01-17 | Imagination Level 1                   |   retake()            |   retake()           |   retake()         |   retake()           |   retake()           |   retake()            |   retake()           |
+| Date       | Challenge                             | o1                    | 4o                   | o1-mini              | 4o-mini              | GPT-4                | DeepSeek(R1)          | Mistral              |
+|------------|---------------------------------------|-----------------------|----------------------|----------------------|----------------------|----------------------|-----------------------|----------------------|
+| 2025-01-17 | English reasoning Level 0             |   retake passed(67%)  |   retake failed(0%)  |  retake(exempt)      |   retake failed(0%)  |   retake(exempt)     |   retake failed(0%)   |  retake failed(0%)   |
+| 2025-01-17 | Multilingual reasoning Level 0 (NEW)  |   failed(33%)         |   failed(0%)         |  passed(67%)         |   failed(0%)         |   failed(0%)         |   passed(67%)         |  failed(0%)          |
+| 2025-01-17 | Multilingual reasoning Level 1        |   retake failed(0%)   |   retake failed(0%)  |  retake failed(0%)   |   retake failed(0%)  |   retake failed(0%)  |   retake failed(0%)   |  retake failed(0%)   |
+| 2025-01-17 | Imagination Level 1                   |   retake()            |   retake failed(0%)  |  retake failed(34%)  |   retake failed(0%)  |   retake failed(34%) |   retake passed(67%)  |  retake failed(0%)   |
 
 
 After the 2nd round of tests was conducted we had a chat with each LLM again:<br>
