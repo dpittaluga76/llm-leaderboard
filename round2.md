@@ -15,7 +15,7 @@ In order to pass the test we require 60% or higher.
 After the 2nd round of tests was conducted we had a chat with each LLM again:<br>
     [4o](https://chatgpt.com/c/67942180-e130-8007-aee3-e3eeb4936d0d)<br>
     [o1-mini]()<br>
-    [4o-mini]()<br>
+    [4o-mini](https://chatgpt.com/c/67942531-e738-8007-944e-746b4efe9be7)<br>
     [GPT-4 can't continue previous chat because response was odd, started new chat](https://chatgpt.com/c/67941e16-b3e8-8007-b1f4-8e983bf605fd)<br>
     [Mistral]()<br>
     [DeepSeek R1]()<br>
