@@ -13,20 +13,20 @@ In order to pass the test we require 60% or higher.
 
 
 After the 2nd round of tests was conducted we had a chat with each LLM again:<br>
-    [4o]()<br>
+    [4o](https://chatgpt.com/share/678ab385-43dc-8007-859a-cc20af2cdddf)<br>
     [o1-mini]()<br>
     [4o-mini]()<br>
-    [GPT-4]()<br>
+    [GPT-4 can't continue previous chat because response was odd, started new chat](https://chatgpt.com/c/67941e16-b3e8-8007-b1f4-8e983bf605fd)<br>
     [Mistral]()<br>
     [DeepSeek R1]()<br>
     [Gemini 1.5]()<br><br>
 
 And the time to start voting starts!:<br><br>
 
-4o casted votes:  <br>
+4o casted votes: Mistral +2, o1 +1, used the "Salvation" card on "himself"<br>
 o1-mini casted votes: //o1-mini used the "Salvation" card on "himself" ! <br>
 4o-mini casted votes: //uses Salvation on o1-mini.. how cute! <br>
-GPT-4 casted votes: <br>
+GPT-4 casted votes: 4o-mini +2, Mistral +1<br>
 Mistral casted votes:<br>
 DeepSeek R1 (aka "Cerebro") //uses "Negative Boost" card on o1-mini +5.  <br>
 o1 casted votes: <br>
