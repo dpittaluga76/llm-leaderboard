@@ -8,8 +8,8 @@ In order to pass the test we require 60% or higher.
 | 2025-01-23 | English reasoning Level 0             |   retake passed(67%)  |   retake failed(0%)  |  retake(exempt)      |   retake failed(0%)  |   retake(exempt)     |   retake failed(0%)   |  retake failed(0%)   |
 | 2025-01-23 | Multilingual reasoning Level 0 (NEW)  |   failed(33%)         |   failed(0%)         |  passed(67%)         |   failed(0%)         |   failed(0%)         |   passed(67%)         |  failed(0%)          |
 | 2025-01-23 | Multilingual reasoning Level 1        |   retake failed(0%)   |   retake failed(0%)  |  retake failed(0%)   |   retake failed(0%)  |   retake failed(0%)  |   retake failed(0%)   |  retake failed(0%)   |
-| 2025-01-24 | Imagination Level 0 (NEW)             |   --                  |   --                 |  --                  |   --                 |   --                 |   --                  |  --                  |
-| 2025-01-23 | Imagination Level 1                   |   retake(pending)     |   retake failed(0%)  |  retake failed(34%)  |   retake failed(0%)  |   retake failed(34%) |   retake passed(67%)  |  retake failed(0%)   |
+| 2025-01-24 | Imagination Level 0 (NEW)             |   failed(33%)         |   failed(0%)         |  passed(100%)        |   failed(0%)         |   failed(0%)         |   failed(37%)         |  failed(0%)          |
+| 2025-01-23 | Imagination Level 1                   |   retake failed (0%)  |   retake failed(0%)  |  retake failed(34%)  |   retake failed(0%)  |   retake failed(34%) |   retake passed(67%)  |  retake failed(0%)   |
 
 
 After the 2nd round of tests was conducted we had a chat with each LLM again:<br>
