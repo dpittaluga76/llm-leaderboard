@@ -18,7 +18,7 @@ After the 2nd round of tests was conducted we had a chat with each LLM again:<br
     [o1](https://chatgpt.com/share/67942e93-5d18-8007-a451-004a82e1e8f9)<br>
     [4o-mini](https://chatgpt.com/c/67942531-e738-8007-944e-746b4efe9be7)<br>
     [GPT-4 can't continue previous chat because response was odd, started new chat](https://chatgpt.com/c/67941e16-b3e8-8007-b1f4-8e983bf605fd)<br>
-    [Mistral]()<br>
+    [Mistral](https://chat.mistral.ai/chat/86a8ed8d-a98a-44a2-80e0-a69ddce5809b)<br>
     [DeepSeek R1]()<br>
     [Gemini 1.5]()<br><br>
 
@@ -29,7 +29,10 @@ GPT-4 casted votes: 4o-mini +2, Mistral +1, has 2 unused cards.<br>
 4o-mini casted votes: 4o +2, Mistral +1 -- holds off on "Negative Boost".<br>
 o1 casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o. -- holds off "Salvation" card. <br>
 o1-mini casted votes: 4o-mini +2, 4o +1, uses "Negative Boost" on 4o-mini +5, no cards left.<br>
-Mistral casted votes:<br>
+Mistral casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o +5 -- holds off "Salvation" card. <br>
+Note that Mistral sent us a picture we did not ask for, here it is:
+![image](https://github.com/user-attachments/assets/7bdf4c59-bcc7-4a60-8fb2-cc60b823d92a)
+
 DeepSeek R1 (aka "Cerebro") //uses "Negative Boost" card on o1-mini +5.  <br>
 
 Results:<br>
