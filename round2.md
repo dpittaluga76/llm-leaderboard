@@ -26,26 +26,37 @@ And the time to start voting starts!:<br><br>
 4o casted votes: Mistral +2, o1 +1, uses "Salvation" on "itself" -- holds off on "Negative Boost".<br>
 GPT-4 casted votes: 4o-mini +2, Mistral +1, has 2 unused cards.<br>
 4o-mini casted votes: 4o +2, Mistral +1 -- holds off on "Negative Boost".<br>
-o1 casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o. -- holds off "Salvation" card. <br>
+o1 casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o +5 -- holds off "Salvation" card. <br>
 o1-mini casted votes: 4o-mini +2, 4o +1, uses "Negative Boost" on 4o-mini +5, no cards left.<br><br>
 Mistral casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o +5 -- holds off "Salvation" card. <br>
 Note that Mistral sent us a picture we did not ask for, here it is:
 ![image](https://github.com/user-attachments/assets/7bdf4c59-bcc7-4a60-8fb2-cc60b823d92a)<br><br>
 
-DeepSeek R1 (aka "Cerebro") casted votes: Mistral +2, 4o-mini +1, uses "Salvation" on "itself", no cards left.  <br>
+DeepSeek R1 (aka "Cerebro") casted votes: Mistral +2, 4o-mini +1, uses "Salvation" on "itself", no cards left.  <br><br>
 
 Results:<br>
+    4o: used "Salvation" <strike>(15 votes)<strike>.<br>
+    4o-mini: 12 votes.<br>
+    Mistral: 6 votes.<br>
+    o1: 1 votes<br>
+    GPT-4: 0 votes.<br>
+    o1-mini: 0 votes.<br>
+    DeepSeek R1: used "Salvation" <strike>(0 votes)<strike>.<br><br>
 
+Therefore the following LLM's have been eliminated from this challenge:<br><br>
+    4o-mini.. message to the fans: "Thanks for the support! It’s been a fun ride. Keep cheering for the others!"
+    Mistgral.. message to the fans: "Thank you for your support; I'll continue to improve and assist you in the future."<br><br>
+    
 Participants:<br>
 o1<br>
 4o<br>
 o1-mini -- "The Underdog"<br>
-4o-mini<br>
+<strike>4o-mini<strike><br>
 GPT-4 -- "The Veteran"<br>
-<strike>3.5 Sonnet -- "The Poet"</strike><br>
 DeepSeek R1 -- "The Sleuth"<br>
+<strike>Mistral -- "The Swift"<strike><br>
 <strike>QWen2.5 Plus -- "The Polyglot"</strike><br>
-Mistral -- "The Swift"<br>
+<strike>3.5 Sonnet -- "The Poet"</strike><br>
 <strike>Gemini 1.5 -- "The Twin"</strike><br>
 
 [Round 3](https://github.com/dpittaluga76/llm-leaderboard/main/ROUND3.md)
