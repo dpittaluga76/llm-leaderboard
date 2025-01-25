@@ -24,7 +24,7 @@ After the 2nd round of tests was conducted we had a chat with each LLM again:<br
 
 And the time to start voting starts!:<br><br>
 
-4o casted votes: Mistral +2, o1 +1, uses "Salvation" on "himself" -- holds off on "Negative Boost<br>
+4o casted votes: Mistral +2, o1 +1, uses "Salvation" on "itself" -- holds off on "Negative Boost<br>
 GPT-4 casted votes: 4o-mini +2, Mistral +1<br>
 4o-mini casted votes: 4o +2, Mistral +1 -- holds off on "Negative Boost"<br>
 o1 casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o. -- holds off "Salvation" card. <br>
