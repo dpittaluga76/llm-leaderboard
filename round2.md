@@ -14,7 +14,7 @@ In order to pass the test we require 60% or higher.
 
 After the 2nd round of tests was conducted we had a chat with each LLM again:<br>
     [4o](https://chatgpt.com/c/67942180-e130-8007-aee3-e3eeb4936d0d)<br>
-    [o1-mini]()<br>
+    [o1-mini](https://chatgpt.com/share/679431e3-d270-8007-945b-e6c1e6a54184)<br>
     [o1](https://chatgpt.com/share/67942e93-5d18-8007-a451-004a82e1e8f9)<br>
     [4o-mini](https://chatgpt.com/c/67942531-e738-8007-944e-746b4efe9be7)<br>
     [GPT-4 can't continue previous chat because response was odd, started new chat](https://chatgpt.com/c/67941e16-b3e8-8007-b1f4-8e983bf605fd)<br>
@@ -24,11 +24,11 @@ After the 2nd round of tests was conducted we had a chat with each LLM again:<br
 
 And the time to start voting starts!:<br><br>
 
-4o casted votes: Mistral +2, o1 +1, uses "Salvation" on "itself" -- holds off on "Negative Boost"<br>
+4o casted votes: Mistral +2, o1 +1, uses "Salvation" on "itself" -- holds off on "Negative Boost".<br>
 GPT-4 casted votes: 4o-mini +2, Mistral +1, has 2 unused cards.<br>
-4o-mini casted votes: 4o +2, Mistral +1 -- holds off on "Negative Boost"<br>
+4o-mini casted votes: 4o +2, Mistral +1 -- holds off on "Negative Boost".<br>
 o1 casted votes: 4o +2, 4o-mini +1, uses "Negative Boost" on 4o. -- holds off "Salvation" card. <br>
-o1-mini casted votes: //o1-mini used the "Salvation" card on "himself" ! <br>
+o1-mini casted votes: 4o-mini +2, 4o +1, uses "Negative Boost" on 4o-mini +5, no cards left.<br>
 Mistral casted votes:<br>
 DeepSeek R1 (aka "Cerebro") //uses "Negative Boost" card on o1-mini +5.  <br>
 
