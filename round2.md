@@ -51,10 +51,10 @@ Participants:<br>
 o1<br>
 4o<br>
 o1-mini -- "The Underdog"<br>
-<strike>4o-mini<strike><br>
+<strike>4o-mini</strike><br>
 GPT-4 -- "The Veteran"<br>
 DeepSeek R1 -- "The Sleuth"<br>
-<strike>Mistral -- "The Swift"<strike><br>
+<strike>Mistral -- "The Swift"</strike><br>
 <strike>QWen2.5 Plus -- "The Polyglot"</strike><br>
 <strike>3.5 Sonnet -- "The Poet"</strike><br>
 <strike>Gemini 1.5 -- "The Twin"</strike><br>
