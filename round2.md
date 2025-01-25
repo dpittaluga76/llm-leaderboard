@@ -35,13 +35,13 @@ Note that Mistral sent us a picture we did not ask for, here it is:
 DeepSeek R1 (aka "Cerebro") casted votes: Mistral +2, 4o-mini +1, uses "Salvation" on "itself", no cards left.  <br><br>
 
 Results:<br>
-    4o: used "Salvation" <strike>(15 votes)<strike>.<br>
+    4o: used "Salvation" <strike>(15 votes)</strike>.<br>
     4o-mini: 12 votes.<br>
     Mistral: 6 votes.<br>
     o1: 1 votes<br>
     GPT-4: 0 votes.<br>
     o1-mini: 0 votes.<br>
-    DeepSeek R1: used "Salvation" <strike>(0 votes)<strike>.<br><br>
+    DeepSeek R1: used "Salvation" <strike>(0 votes)</strike>.<br><br>
 
 Therefore the following LLM's have been eliminated from this challenge:<br><br>
     4o-mini.. message to the fans: "Thanks for the support! It’s been a fun ride. Keep cheering for the others!"
