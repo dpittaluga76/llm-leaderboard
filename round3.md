@@ -1,7 +1,7 @@
 # llm-leaderboard  ( 2025 - Round 3 - January 27th thru 2nd February)
 Personal customized LLM Leaderboard without contamination! (Weekly Updates)
 
-In this round instead of challenges we will schedule chess matches, however since we have 5 LLM's the one that gets a BYE must have to pass the following test: Creativity Level 0<br>
+In this round instead of challenges we will schedule chess matches, however since we have 5 LLM's the one that gets a BYE... that one must have to pass the following test: Creativity Level 0<br>
 Using https://wheelofnames.com/ to generate the pairings...
 1st Match.. PLAYER 1 with white is: o1-mini.
 1st Match.., PLAYER 2 with black is: 4o.
