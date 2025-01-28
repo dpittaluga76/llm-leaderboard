@@ -2,8 +2,17 @@
 Personal customized LLM Leaderboard without contamination! (Weekly Updates)
 
 In this round instead of challenges we will schedule chess matches, however since we have 5 LLM's the one that gets a BYE must have to pass the following test: Creativity Level 0<br>
+Using https://wheelofnames.com/ to generate the pairings...
+1st Match.. PLAYER 1 with white is: o1-mini.
+1st Match.., PLAYER 2 with black is: 4o.
+2nd Match.. PLAYER 1 with white is: DeepSeek R1.
+2nd Match.., PLAYER 2 with black is: GPT-4.
 
-| Date       | Challenge                             | ??                    |
+Rules of the chess matches, no illegal moves are allowed, the first to make a illegal move looses.
+
+Thus the creativity challenge gets assigned to o1.
+
+| Date       | Challenge                             | o1                    |
 |------------|---------------------------------------|-----------------------|
 | 2025-01-28 | Creativity Level 0                    |   --                  |
 
@@ -25,8 +34,6 @@ DeepSeek R1 (aka "Cerebro") casted votes: -- no cards left.  <br><br>
 
 Results:<br>
     4o: 
-    4o-mini: 
-    Mistral: 
     o1: 
     GPT-4: 
     o1-mini: 
@@ -38,9 +45,9 @@ Participants:<br>
 o1<br>
 4o<br>
 o1-mini -- "The Underdog"<br>
-<strike>4o-mini</strike><br>
 GPT-4 -- "The Veteran"<br>
 DeepSeek R1 -- "The Sleuth"<br>
+<strike>4o-mini</strike><br>
 <strike>Mistral -- "The Swift"</strike><br>
 <strike>QWen2.5 Plus -- "The Polyglot"</strike><br>
 <strike>3.5 Sonnet -- "The Poet"</strike><br>
