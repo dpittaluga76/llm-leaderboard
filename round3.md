@@ -8,7 +8,7 @@ In this round instead of challenges we will schedule chess matches, however sinc
 | 2025-01-28 | Creativity Level 0                    |   --                  |
 
 
-After the 2nd round of tests was conducted we had a chat with each LLM again:<br>
+After the 3rd round we had a chat with each LLM again:<br>
     [4o]()<br>
     [o1-mini]()<br>
     [o1]()<br>
