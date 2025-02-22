@@ -59,6 +59,6 @@ DeepSeek R1 -- "The Sleuth"<br>
 <strike>3.5 Sonnet -- "The Poet"</strike><br>
 <strike>Gemini 1.5 -- "The Twin"</strike><br>
 
-[Round 3](https://github.com/dpittaluga76/llm-leaderboard/main/ROUND3.md)
+[Round 3](https://github.com/dpittaluga76/llm-leaderboard/blob/main/round3.md)
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
