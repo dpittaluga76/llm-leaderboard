@@ -7,7 +7,7 @@ Imagination Level 0: failed with and without assitance, in a nutshell it confuse
 Imagination Level 1: passed with assistance(extra question), failed without assistance.<br>
 <br>
 <br>
-Overall score: 30%<br>
+Overall score: 30% vs o1-mini 50% so o1-mini was removed but is actually better.<br>
 <br>
 <br>
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
